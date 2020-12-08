@@ -1,6 +1,6 @@
 import React from 'react'
 import "tailwindcss/tailwind.css"
-import Layout from '../components/Layout'
+import Layout from '../components/layout'
 
 
 const MyApp = ({ Component, pageProps }) => {
