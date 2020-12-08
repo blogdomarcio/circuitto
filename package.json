@@ -1,0 +1,29 @@
+{
+  "name": "circuitto",
+  "version": "1.0.0",
+  "description": "Projeto Jornal Circuitto Regional",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blogdomarcio/circuitto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blogdomarcio/circuitto/issues"
+  },
+  "homepage": "https://github.com/blogdomarcio/circuitto#readme",
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "next": "^10.0.3",
+    "postcss": "^8.1.7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^2.0.1"
+  }
+}
