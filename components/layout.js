@@ -1,4 +1,5 @@
 import React from 'react'
+
 import Header from './header'
 
 const Layout = ({ children }) => {
@@ -17,6 +18,10 @@ const Layout = ({ children }) => {
 
 
             </div>
+
+
+
+
 
 
 
